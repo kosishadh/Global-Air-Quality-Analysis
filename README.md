@@ -215,13 +215,8 @@ A suggested project structure is:
 air-quality-analysis/
 │
 ├── data.csv
-├── analysis.py
+├── main.ipynb
 ├── README.md
-└── visualizations/
-    ├── top_10_cities.png
-    ├── country_pm25.png
-    ├── pm25_vs_pm10.png
-    └── pm25_vs_no2.png
 ```
 
 ---
