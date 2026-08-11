@@ -358,6 +358,6 @@ The results provide a useful overview of pollution patterns in the selected loca
 
 ## 👤 Author
 
-**Your Name**
+Kosish Adhikari
 
 Air Quality Data Analysis Project
